@@ -13,7 +13,7 @@
 * Use of force
 * Strip searches
 2. TPS uses many otheer tecvhnology based forms of surveillance, including
-* Cell p[hone mponitoring
+* Cell phone monitoring
 * Video cameras
 3. The current Race Based Data collection policy does  not cover the technology based means  of monitoring at all. Whether a police officer is identifiying someone 
 * in person, or 
