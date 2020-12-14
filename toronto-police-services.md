@@ -1,16 +1,19 @@
 # Toronto Police Service Race Based Data Collection Policy
 
-## Background
+## Summary
+Toronto Police Service is implementing a Race Based Data Collection Policy.  The policy application is limited to a very narrow range of activities. The narrow application of the Race Based Data Strategy does not cover  technology based means of  data collection by the Toronto Police Service.  By not including technology based data collection, the policy will not serve its purpose of mitigating systematic racism. Technology based data collection tends to reinforce and multiply systematic racism, particularly anti-Black racism, and therefore needs to be limited and controlled under strict Race Based Data collection policies, if and when technology based data collection it is implemented at all.
 
-* Toronto Police Service (TPS) is gathering public input on a Race Based Data Collection policy [TPS website] (http://www.torontopolice.on.ca/race-based-data/)
+## Background
+* Toronto Police Service (TPS) is gathering public input on a Race Based Data Collection policy [TPS website](http://www.torontopolice.on.ca/race-based-data/)
 * TPS policy is based on the requirements of the Ontario provincial Anti Racism Act of 2017 which mandated the collection of race-based data by police and other organizations. 
 * For the Toronto Police Service, data collection started on January 1, 2020.
 
 ## Personal Experience
-This Summer, like many others I have attended a number of events supporting Black Lives Matter.  At one of these events, specifically the #WalkforRegis event that took place on July 25th, 2020, I  noticed an unmarked White police van parked close to the gathering.  The van followed the #WalkforRegis into High Park,  confirming that it was a van used by police for surveillance of people at the event. The van had specialized equipment additions that indicated a technology such as Stingray was being used for surveillance of attendees at the #WalkforRegis.  This was my most recent and direct experience of technology based police surveillance, particularly surveillance of a Black community led gathering in Toronto.
+This Summer, like many others I have attended a number of events supporting Black Lives Matter.  At one of these events, specifically the #WalkforRegis event that took place on July 25th, 2020, I  noticed an unmarked White police van parked close to the gathering.  The van followed the #WalkforRegis participants into High Park, confirming that it was a van used by police for surveillance of people at the event. The van had specialized equipment modfications that indicated a technology such as Stingray was being used for surveillance of attendees at the #WalkforRegis.  This was my most recent and direct experience of technology based police surveillance, particularly surveillance of a Black community led gathering in Toronto.
 
-## Police Data Collection methods have historically involved Systemac Racism
-Toronto Police Services have been critiqued and stopped its previous practice of "carding", also known as Field Information Report (FIR) or Community Inquiry Report (CIR). The main issue with carding was that it involved systematic racism, particularly anti-Black racism, where Black individuals were highly over represented in carding interactions.  Many police forces across Canada that have been critiqued for problematic carding practices have responded by sayign what they do is not "carding" its something else by a  [different name](https://en.wikipedia.org/wiki/Carding_(police_policy))
+## Police Data Collection methods have involved Systematic Racism
+Toronto Police Services have been critiqued and stopped its previous practice of "carding" in 2014, also known as [Field Information Report (FIR) or Community Inquiry Report (CIR)](https://en.wikipedia.org/wiki/Carding_(police_policy)). The main issue with carding was that it involved systematic racism, particularly anti-Black racism, where Black individuals were highly over represented in carding interactions.  In 2019, Toronto Police Services halted the aquisition of technology ShotSpotter, and one of the primary concerns raised was [disproportional policing of racialized communities](https://ccla.org/ccla-urges-toronto-delay-purchase-gunshot-location-technology-shotspotter/)
+Many police forces across Canada that have been critiqued for problematic carding practices have responded by sayign what they do is not "carding" its something else by a  [different name]
 
 ## Issues
 
