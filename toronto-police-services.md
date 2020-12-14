@@ -1,4 +1,4 @@
-# Toronto Police Service Race Based Data Collection Policy
+# Toronto Police Service Race Based Data Collection Policy is stuck in Victorian England polciing in the 1800s
 
 ## Summary
 Toronto Police Service is implementing a Race Based Data Collection Policy. The policy application is limited to a very narrow range of activities. The narrow application of the Race Based Data Strategy does not cover technology based means of identification used by Toronto Police Service. By not including technology based identification, the policy will not serve its purpose of mitigating systematic racism. Technology based identification tends to reinforce and multiply systematic racism, particularly Anti-Black racism, and therefore needs to be limited and controlled under strict Race Based Data collection policies, if and when technology based identification tools are implemented at all.
